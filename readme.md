@@ -5,3 +5,7 @@ Hi, i'm Aiaz Dadashov (💻🚆☕)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi,welcome+to+my+page+on+the+GitHub;I'm+working+on+the+train+driver+position;And+Front-end+developer+on+the+freelance;Nice+to+meet+you...)](https://git.io/typing-svg)
+
+## 🔧 Technologie
+
+![skills](https://skillicons.dev/icons?i=html,css,js,wordpress,git,figma,jquery,vscode&theme=light)
