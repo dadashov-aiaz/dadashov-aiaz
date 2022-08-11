@@ -8,4 +8,4 @@ Hi, i'm Aiaz Dadashov (💻🚆☕)
 
 ## 🔧 Technologie
 
-![skills](https://skillicons.dev/icons?i=html,css,js,wordpress,git,figma,jquery,tilda,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,wordpress,git,figma,jquery,vscode&theme=light)
